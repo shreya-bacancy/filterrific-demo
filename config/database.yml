@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: filterrific_production
-  username: filterrific
-  password: <%= ENV['FILTERRIFIC_DATABASE_PASSWORD'] %>
+  username: shreya
+  password: shreya
